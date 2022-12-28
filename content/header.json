@@ -18,7 +18,10 @@
     "socials": true
   },
   "categories_list": {
-    "featured": [],
+    "featured": [
+      "/hardware?Hardware",
+      "/computadores?Computadores"
+    ],
     "random": 6,
     "full_width": false
   },
