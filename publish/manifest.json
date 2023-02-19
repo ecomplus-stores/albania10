@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.a1aee313555ea45d8308c82c6eb2e2ba.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.ea485eefc64af8a064dc47bfa38d9e01.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.579865b01e1dd5a43075a8e8493b0039.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.04935e40a2ee67c72c46cfc1b16b7b0e.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.c86c08d1d9ced39bde025c334bb90144.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Albânia 10",
+  "short_name": "albania10",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "albania10",
+  "background_color": "#ffffff",
+  "theme_color": "#a80000"
+}
