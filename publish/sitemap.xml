@@ -14,12 +14,6 @@
     </url>
   
     <url>
-      <loc>https://albania10.netlify.app/com</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
       <loc>https://albania10.netlify.app/piercing-fake-com-zircnia-f027</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -18518,6 +18512,12 @@
     </url>
   
     <url>
+      <loc>https://albania10.netlify.app/com</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://albania10.netlify.app/pages/contato</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
@@ -18530,13 +18530,13 @@
     </url>
   
     <url>
-      <loc>https://albania10.netlify.app/pages/faq</loc>
+      <loc>https://albania10.netlify.app/pages/pagamentos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://albania10.netlify.app/pages/pagamentos</loc>
+      <loc>https://albania10.netlify.app/pages/faq</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
